@@ -1,0 +1,16 @@
+  # Ignorar PDFs baixados
+anexos_pdfs/
+anexos_pdfs.zip
+# Ignorar arquivos de ambiente virtual (caso use Python)
+venv/
+.env
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+# Ignorar configurações do PyCharm
+.idea/
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
